@@ -5,4 +5,4 @@ Comandos do Git:
 	git add: git add * ou git add <nome do arquivo>. para track.
 	git restore: git restore --staged <arquivo>. para unstage.
 	git commit: git commit -m.
-	git push:m git push origim main.
+	git push: git push origim main.
