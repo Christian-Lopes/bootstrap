@@ -1,0 +1,8 @@
+Comandos do Git:
+
+	git clone: git clone <endereço do repositório>.
+	git status: git status.
+	git add: git add * ou git add <nome do arquivo>. para track.
+	git restore: git restore --staged <arquivo>. para unstage.
+	git commit: git commit -m.
+	git push:m git push origim main.
